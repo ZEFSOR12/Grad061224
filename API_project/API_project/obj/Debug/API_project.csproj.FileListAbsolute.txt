@@ -1,0 +1,95 @@
+D:\ИС1-43\API_project\API_project\bin\Debug\API_project.exe.config
+D:\ИС1-43\API_project\API_project\bin\Debug\API_project.exe
+D:\ИС1-43\API_project\API_project\bin\Debug\API_project.pdb
+D:\ИС1-43\API_project\API_project\bin\Debug\Newtonsoft.Json.dll
+D:\ИС1-43\API_project\API_project\bin\Debug\Newtonsoft.Json.xml
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.csproj.AssemblyReference.cache
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.csproj.SuggestedBindingRedirects.cache
+D:\ИС1-43\API_project\API_project\obj\Debug\MainWindow.g.cs
+D:\ИС1-43\API_project\API_project\obj\Debug\App.g.cs
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project_MarkupCompile.cache
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project_MarkupCompile.lref
+D:\ИС1-43\API_project\API_project\obj\Debug\MainWindow.baml
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.g.resources
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.Properties.Resources.resources
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.csproj.GenerateResource.cache
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.csproj.CoreCompileInputs.cache
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.csproj.CopyComplete
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.exe
+D:\ИС1-43\API_project\API_project\obj\Debug\API_project.pdb
+F:\УП 07\API_project\API_project\bin\Debug\API_project.exe.config
+F:\УП 07\API_project\API_project\bin\Debug\API_project.exe
+F:\УП 07\API_project\API_project\bin\Debug\API_project.pdb
+F:\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.dll
+F:\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.xml
+F:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.AssemblyReference.cache
+F:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.SuggestedBindingRedirects.cache
+F:\УП 07\API_project\API_project\obj\Debug\MainWindow.g.cs
+F:\УП 07\API_project\API_project\obj\Debug\App.g.cs
+F:\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.cache
+F:\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.lref
+F:\УП 07\API_project\API_project\obj\Debug\MainWindow.baml
+F:\УП 07\API_project\API_project\obj\Debug\API_project.g.resources
+F:\УП 07\API_project\API_project\obj\Debug\API_project.Properties.Resources.resources
+F:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.GenerateResource.cache
+F:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CoreCompileInputs.cache
+F:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CopyComplete
+F:\УП 07\API_project\API_project\obj\Debug\API_project.exe
+F:\УП 07\API_project\API_project\obj\Debug\API_project.pdb
+G:\УП 07\API_project\API_project\bin\Debug\API_project.exe.config
+G:\УП 07\API_project\API_project\bin\Debug\API_project.exe
+G:\УП 07\API_project\API_project\bin\Debug\API_project.pdb
+G:\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.dll
+G:\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.xml
+G:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.AssemblyReference.cache
+G:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.SuggestedBindingRedirects.cache
+G:\УП 07\API_project\API_project\obj\Debug\MainWindow.g.cs
+G:\УП 07\API_project\API_project\obj\Debug\App.g.cs
+G:\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.cache
+G:\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.lref
+G:\УП 07\API_project\API_project\obj\Debug\MainWindow.baml
+G:\УП 07\API_project\API_project\obj\Debug\API_project.g.resources
+G:\УП 07\API_project\API_project\obj\Debug\API_project.Properties.Resources.resources
+G:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.GenerateResource.cache
+G:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CoreCompileInputs.cache
+G:\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CopyComplete
+G:\УП 07\API_project\API_project\obj\Debug\API_project.exe
+G:\УП 07\API_project\API_project\obj\Debug\API_project.pdb
+F:\Неделяева\УП 07\API_project\API_project\bin\Debug\API_project.exe.config
+F:\Неделяева\УП 07\API_project\API_project\bin\Debug\API_project.exe
+F:\Неделяева\УП 07\API_project\API_project\bin\Debug\API_project.pdb
+F:\Неделяева\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.dll
+F:\Неделяева\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.xml
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.AssemblyReference.cache
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.SuggestedBindingRedirects.cache
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\MainWindow.g.cs
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\App.g.cs
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.cache
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.lref
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\MainWindow.baml
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.g.resources
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.Properties.Resources.resources
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.GenerateResource.cache
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CoreCompileInputs.cache
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CopyComplete
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.exe
+F:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.pdb
+G:\Неделяева\УП 07\API_project\API_project\bin\Debug\API_project.exe.config
+G:\Неделяева\УП 07\API_project\API_project\bin\Debug\API_project.exe
+G:\Неделяева\УП 07\API_project\API_project\bin\Debug\API_project.pdb
+G:\Неделяева\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.dll
+G:\Неделяева\УП 07\API_project\API_project\bin\Debug\Newtonsoft.Json.xml
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.AssemblyReference.cache
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.SuggestedBindingRedirects.cache
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\MainWindow.g.cs
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\App.g.cs
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.cache
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project_MarkupCompile.lref
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\MainWindow.baml
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.g.resources
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.Properties.Resources.resources
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.GenerateResource.cache
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CoreCompileInputs.cache
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.csproj.CopyComplete
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.exe
+G:\Неделяева\УП 07\API_project\API_project\obj\Debug\API_project.pdb
